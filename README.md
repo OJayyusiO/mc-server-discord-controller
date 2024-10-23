@@ -6,10 +6,10 @@ Discord bot python code that allows you to start and stop server, check status o
 - install dependencies
 
 # Installation
-Download python and install the dependenices that are in the bot.py (discord.py and mcstatus).
-Change the line in token.txt to your discord bot token
-Change the line in serverbat.txt to path of your server bat file 9not sure if it works with jar file)
-Invite bot to a server and run
+- Download python and install the dependenices that are in the bot.py (discord.py and mcstatus).
+- Change the line in token.txt to your discord bot token
+- Change the line in serverbat.txt to path of your server bat file 9not sure if it works with jar file)
+- Invite bot to a server and run
 
 
 ## /Start
