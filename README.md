@@ -8,7 +8,7 @@ starts server
 ## /Stop
 stops server
 
-##status
+## /Status
 check status of server
 
 
